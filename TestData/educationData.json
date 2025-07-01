@@ -1,0 +1,88 @@
+﻿{
+  "validEducation": {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "title": "B.Sc",
+    "degree": "Computer Science",
+    "year": "2022",
+    "expectedMessage": "Education has been added"
+  },
+
+  "validEducation2": {
+    "university": "AUT",
+    "country": "New Zealand",
+    "title": "B.A",
+    "degree": "Information Technology",
+    "year": "2010",
+    "expectedMessage": "Education has been added"
+  },
+
+  "duplicateEducation": {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "title": "B.Sc",
+    "degree": "Computer Science",
+    "year": "2022",
+    "expectedMessage": "This information is already exist."
+  },
+
+  "emptyUniversity": {
+    "university": "",
+    "country": "New Zealand",
+    "title": "B.Sc",
+    "degree": "Information Technology",
+    "year": "2021",
+    "expectedMessage": "Please enter all the fields"
+  },
+  "noSelectionCountry": {
+    "university": "University of Auckland",
+    "country": "Country of College/University",
+    "title": "B.Sc",
+    "degree": "Information Technology",
+    "year": "2021",
+    "expectedMessage": "Please enter all the fields"
+  },
+  "noSelectionTitle": {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "title": "Title",
+    "degree": "Information Technology",
+    "year": "2021",
+    "expectedMessage": "Please enter all the fields"
+
+  },
+  "emptyDegree": {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "title": "B.Sc",
+    "degree": "",
+    "year": "2021",
+    "expectedMessage": "Please enter all the fields"
+  },
+  "noSelectionYear": {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "title": "Title",
+    "degree": "Information Technology",
+    "year": "Year of graduation",
+    "expectedMessage": "Please enter all the fields"
+
+  },
+  "editEducation": {
+    "university": "Saint Columban College",
+    "country": "Philippines",
+    "title": "Associate",
+    "degree": "Computer Science",
+    "year": "2010",
+    "expectedMessage": "Education as been updated"
+  },
+  "deleteEducation": {
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "title": "B.Sc",
+    "degree": "Computer Science",
+    "year": "2022",
+    "expectedMessage": "Education entry successfully removed"
+  }
+
+}
