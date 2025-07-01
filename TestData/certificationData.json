@@ -1,0 +1,55 @@
+﻿{
+  "validCertification": {
+    "certificate": "ISTQB Foundation Level",
+    "certifiedFrom": "ISTQB",
+    "year": "2022",
+    "expectedMessage": "ISTQB Foundation Level has been added to your certification"
+  },
+
+  "validCertification2": {
+    "certificate": "Agile Scrum Master",
+    "certifiedFrom": "Scrum.org",
+    "year": "2020",
+    "expectedMessage": "Agile Scrum Master has been added to your certification"
+  },
+
+  "duplicateCertification": {
+    "certificate": "ISTQB Foundation Level",
+    "certifiedFrom": "ISTQB",
+    "year": "2022",
+    "expectedMessage": "This information is already exist."
+  },
+
+  "emptyCertificate": {
+    "certificate": "",
+    "certifiedFrom": "ISTQB",
+    "year": "2022",
+    "expectedMessage": "Please enter Certification Name, Certification From and Certification Year"
+  },
+  "emptyCertifiedFrom": {
+    "certificate": "ISTQB Foundation Level",
+    "certifiedFrom": "",
+    "year": "2022",
+    "expectedMessage": "Please enter Certification Name, Certification From and Certification Year"
+  },
+  "noSelectionYear": {
+    "certificate": "ISTQB Foundation Level",
+    "certifiedFrom": "ISTQB",
+    "year": "Year",
+    "expectedMessage": "Please enter Certification Name, Certification From and Certification Year"
+  },
+
+  "editCertification": {
+    "certificate": "Agile Scrum Master",
+    "certifiedFrom": "Scrum.org",
+    "year": "2020",
+    "expectedMessage": "Agile Scrum Master has been updated to your certification"
+  },
+  "deleteCertification": {
+    "certificate": "ISTQB Foundation Level",
+    "certifiedFrom": "ISTQB",
+    "year": "2022",
+    "expectedMessage": "ISTQB Foundation Level has been deleted from your certification"
+  }
+
+}
